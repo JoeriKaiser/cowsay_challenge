@@ -1,0 +1,9 @@
+const campusTls = {
+  name: "Joeri",
+  city: "Toulouse",
+  start: "february",
+  end: "July",
+  fun: true,
+}
+
+module.exports = campusTls;
